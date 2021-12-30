@@ -18,3 +18,7 @@
 # Adding Component
 - We create new folder in app folder and inside that we create componentname.component.ts and here we import Component decorator feature to enhance features of our class and use metadata.
 
+# Registering Component in Module
+- We need to register our new Component in module in the declaration property. 
+- We need to import the component to make since we are using typescript.
+
