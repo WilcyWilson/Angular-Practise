@@ -15,3 +15,6 @@
 - Install Bootstrap with npm using --save to install bootstrap locally in the project.
 - Then go to angular.json to configure the style.css and point it to node_module/bootstrap/bootstap_min.js
 
+# Adding Component
+- We create new folder in app folder and inside that we create componentname.component.ts and here we import Component decorator feature to enhance features of our class and use metadata.
+
