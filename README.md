@@ -22,3 +22,7 @@
 - We need to register our new Component in module in the declaration property. 
 - We need to import the component to make since we are using typescript.
 
+# Adding styles, templates to component.ts to add inline css and template
+- Can use templateUrl or template
+- Notice style is an array
+- Use back tick ` to write multi line.
