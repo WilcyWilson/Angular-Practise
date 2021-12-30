@@ -26,3 +26,8 @@
 - Can use templateUrl or template
 - Notice style is an array
 - Use back tick ` to write multi line.
+
+# Different ways to use selector
+- Class Selector
+- Attribute Selector
+- Default Element Selector
