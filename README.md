@@ -31,3 +31,9 @@
 - Class Selector
 - Attribute Selector
 - Default Element Selector
+
+# Data Binding
+- Communication between TypeScript and html template
+- TypeScript to template commmunication through string interpolation, property binding.
+- Template to TypeScript communication through event binding.
+- Two way data binding where both communication can occur simulataneously
