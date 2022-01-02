@@ -36,4 +36,9 @@
 - Communication between TypeScript and html template
 - TypeScript to template commmunication through string interpolation, property binding.
 - Template to TypeScript communication through event binding.
-- Two way data binding where both communication can occur simulataneously
+- Two way data binding where both communication can occur simulataneously.
+
+# String Interpolation in Data Binding
+- Should always return a string.
+- No multi line expressions.
+- Can also use method during string interpolation.
