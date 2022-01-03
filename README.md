@@ -42,3 +42,9 @@
 - Should always return a string.
 - No multi line expressions.
 - Can also use method during string interpolation.
+
+# Property Binding in Data Binding
+- Used to make html attribute dynamic
+
+# Event Binding in Data Binding
+- Communication form html template to typescript code.
