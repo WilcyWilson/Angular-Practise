@@ -48,3 +48,13 @@
 
 # Event Binding in Data Binding
 - Communication form html template to typescript code.
+
+# Two way data binding
+- We use directives for two way data binding.
+- We combine syntax of property binding and event binding.
+
+# Directives
+- Used to change anygthing in DOM.
+
+# Structural Directive
+- *ngIf *ngFor
