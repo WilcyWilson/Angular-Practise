@@ -6,10 +6,18 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./success-alert.component.css']
 })
 export class SuccessAlertComponent implements OnInit {
-
-  constructor() { }
+  username = "";
+  allowClick = false;
+  constructor() { 
+    if (this.username !== "") {
+      this.allowClick = true;
+    } 
+  }
 
   ngOnInit(): void {
   }
 
+  onClick(){
+    this.username = "";
+  }
 }
